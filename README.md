@@ -1,6 +1,6 @@
  Hi there, I'm Gowrika G Kuckian!
 
-🎓 **B.Tech in Computer Science** | 6th Sem @ SMVITM  
+🎓 **B.Tech in Computer Science** | @ SMVITM  
 💻 Passionate about **Web Development, Full Stack Engineering & Problem Solving**  
 🌍 Based in Padubidri, Udupi, Karnataka
 
